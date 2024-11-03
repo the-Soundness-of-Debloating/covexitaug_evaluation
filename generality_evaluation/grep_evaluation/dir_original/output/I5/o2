@@ -1,0 +1,4 @@
+eval_bin
+geekfile.txt
+./eval_bin: input: Is a directory
+2

@@ -1,0 +1,4 @@
+/workspace/experiments/debloating_study/expt/debaug/benchmark/gzip-1.2.4/testscript/I3/1: line 10: 33237 Killed                  timeout -k 9 ${TIMEOUT}s $BIN "this is my file.png"
+137
+0
+cat: rslt: No such file or directory

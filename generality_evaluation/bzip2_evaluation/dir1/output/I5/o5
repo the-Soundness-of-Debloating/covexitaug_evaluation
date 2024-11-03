@@ -1,0 +1,7 @@
+eval_bin: myfile.txt.bz2: bad magic number (file not created by bzip2)
+
+You can use the `bzip2recover' program to attempt to recover
+data from undamaged sections of corrupted files.
+
+2
+0

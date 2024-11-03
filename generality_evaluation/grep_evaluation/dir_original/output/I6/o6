@@ -1,0 +1,4 @@
+./eval_bin: invalid option -- 't'
+Usage: ./eval_bin [OPTION]... PATTERN [FILE]...
+Try './eval_bin --help' for more information.
+2

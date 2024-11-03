@@ -1,0 +1,10 @@
+/workspace/experiments/debloating_study/expt/debaug/benchmark/gzip-1.2.4/testscript/I4/2: line 13: 33701 Killed                  timeout -k 9 ${TIMEOUT}s $BIN test1.txt test2.txt test3.txt test4.txt
+137
+0
+cat: rslt: No such file or directory
+0
+cat: rslt: No such file or directory
+0
+cat: rslt: No such file or directory
+0
+cat: rslt: No such file or directory

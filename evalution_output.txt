@@ -1,0 +1,150 @@
+
+---- Perform Cov debloating on bzip2-1.0.5 ----
+
+---- Perform augmentation on bzip2-1.0.5 ----
+Output debloated lines to file 'bzip2-1.0.5.debloated_lines.txt'.
+Output augmented program to file 'bzip2-1.0.5.c.reduced.augmented.c'.
+
+---- Perform evaluation ----
+
+Line count increment: 410/3461 (original: 12097, before: 8636, after: 9046)
+
+Generality problems count (before augmentation): 37/39
+Generality problems count (after augmentation): 39/39
+
+---- Perform DCE on bzip2-1.0.5 (SKIPPED) ----
+
+---- Perform Cov debloating on chown-8.2 ----
+
+---- Perform augmentation on chown-8.2 ----
+Output debloated lines to file 'chown-8.2.debloated_lines.txt'.
+Output augmented program to file 'chown-8.2.c.reduced.augmented.c'.
+
+---- Perform evaluation ----
+
+Line count increment: 192/4229 (original: 7085, before: 2856, after: 3048)
+
+Generality problems count (before augmentation): 4/23
+Generality problems count (after augmentation): 6/23
+
+---- Perform DCE on chown-8.2 (SKIPPED) ----
+
+---- Perform Cov debloating on date-8.21 ----
+
+---- Perform augmentation on date-8.21 ----
+Output debloated lines to file 'date-8.21.debloated_lines.txt'.
+Output augmented program to file 'date-8.21.c.reduced.augmented.c'.
+
+---- Perform evaluation ----
+
+Line count increment: 310/3258 (original: 9705, before: 6447, after: 6757)
+
+Generality problems count (before augmentation): 34/142
+Generality problems count (after augmentation): 34/142
+
+---- Perform DCE on date-8.21 (SKIPPED) ----
+
+---- Perform Cov debloating on grep-2.19 ----
+
+---- Perform augmentation on grep-2.19 ----
+Output debloated lines to file 'grep-2.19.debloated_lines.txt'.
+Output augmented program to file 'grep-2.19.c.reduced.augmented.c'.
+
+---- Perform evaluation ----
+
+Line count increment: 494/11987 (original: 23292, before: 11305, after: 11799)
+
+Generality problems count (before augmentation): 61/115
+Generality problems count (after augmentation): 76/115
+
+---- Perform DCE on grep-2.19 (SKIPPED) ----
+
+---- Perform Cov debloating on gzip-1.2.4 ----
+
+---- Perform augmentation on gzip-1.2.4 ----
+Output debloated lines to file 'gzip-1.2.4.debloated_lines.txt'.
+Output augmented program to file 'gzip-1.2.4.c.reduced.augmented.c'.
+
+---- Perform evaluation ----
+
+Line count increment: 159/3936 (original: 8818, before: 4882, after: 5041)
+
+Generality problems count (before augmentation): 40/42
+Generality problems count (after augmentation): 41/42
+
+---- Perform DCE on gzip-1.2.4 (SKIPPED) ----
+
+---- Perform Cov debloating on mkdir-5.2.1 ----
+
+---- Perform augmentation on mkdir-5.2.1 ----
+Output debloated lines to file 'mkdir-5.2.1.debloated_lines.txt'.
+Output augmented program to file 'mkdir-5.2.1.c.reduced.augmented.c'.
+
+---- Perform evaluation ----
+
+Line count increment: 150/1991 (original: 5049, before: 3058, after: 3208)
+
+Generality problems count (before augmentation): 3/43
+Generality problems count (after augmentation): 5/43
+
+---- Perform DCE on mkdir-5.2.1 (SKIPPED) ----
+
+---- Perform Cov debloating on rm-8.4 ----
+
+---- Perform augmentation on rm-8.4 ----
+Output debloated lines to file 'rm-8.4.debloated_lines.txt'.
+Output augmented program to file 'rm-8.4.c.reduced.augmented.c'.
+
+---- Perform evaluation ----
+
+Line count increment: 281/3913 (original: 7193, before: 3280, after: 3561)
+
+Generality problems count (before augmentation): 38/61
+Generality problems count (after augmentation): 43/61
+
+---- Perform DCE on rm-8.4 (SKIPPED) ----
+
+---- Perform Cov debloating on sort-8.16 ----
+
+---- Perform augmentation on sort-8.16 ----
+Output debloated lines to file 'sort-8.16.debloated_lines.txt'.
+Output augmented program to file 'sort-8.16.c.reduced.augmented.c'.
+
+---- Perform evaluation ----
+
+Line count increment: 161/10361 (original: 14286, before: 3925, after: 4086)
+
+Generality problems count (before augmentation): 3/44
+Generality problems count (after augmentation): 3/44
+
+---- Perform DCE on sort-8.16 (SKIPPED) ----
+
+---- Perform Cov debloating on tar-1.14 ----
+
+---- Perform augmentation on tar-1.14 ----
+Output debloated lines to file 'tar-1.14.debloated_lines.txt'.
+Output augmented program to file 'tar-1.14.c.reduced.augmented.c'.
+
+---- Perform evaluation ----
+
+Line count increment: 125/16328 (original: 30804, before: 14476, after: 14601)
+
+Generality problems count (before augmentation): 43/51
+Generality problems count (after augmentation): 43/51
+
+---- Perform DCE on tar-1.14 (SKIPPED) ----
+
+---- Perform Cov debloating on uniq-8.16 ----
+
+---- Perform augmentation on uniq-8.16 ----
+Output debloated lines to file 'uniq-8.16.debloated_lines.txt'.
+Output augmented program to file 'uniq-8.16.c.reduced.augmented.c'.
+
+---- Perform evaluation ----
+
+Line count increment: 55/2980 (original: 7309, before: 4329, after: 4384)
+
+Generality problems count (before augmentation): 23/62
+Generality problems count (after augmentation): 23/62
+
+---- Perform DCE on uniq-8.16 (SKIPPED) ----

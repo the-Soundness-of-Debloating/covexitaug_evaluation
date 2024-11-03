@@ -1,0 +1,7 @@
+timeout: the monitored command dumped core
+/workspace/experiments/debloating_study/expt/debaug/benchmark/gzip-1.2.4/testscript/I9/6: line 14: 35108 Segmentation fault      timeout -k 9 ${TIMEOUT}s $BIN -dr helloworld.gz javaselightbox.gz
+139
+0
+cat: helloworld: No such file or directory
+0
+cat: javaselightbox: No such file or directory

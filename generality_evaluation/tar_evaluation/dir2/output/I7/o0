@@ -1,0 +1,5 @@
+timeout: the monitored command dumped core
+/workspace/experiments/debloating_study/expt/debaug/benchmark/tar-1.14/testscript/I7/0: line 12: 49342 Segmentation fault      timeout -k 9 ${TIMEOUT}s $BIN -cvf myarchive.tar $CURRDIR/etc $CURRDIR/anaconda-ks.cfg
+139
+2
+2

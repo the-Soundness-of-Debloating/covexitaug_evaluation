@@ -1,0 +1,21 @@
+ExtractParameters("AT", "II", Text);
+ExtractParameters("DECIMAL", "I", Text);
+ExtractParameters("TONE", "II", Text);
+ExtractParameters("SUFFIX", "sI", Text);
+ExtractParameters("TICKER", "IISII", Text);
+ExtractParameters("GETXY", "ii", Text);
+ExtractParameters("DAYNAME", "sI", Text);
+ExtractParameters("MONTHNAME", "sI", Text);
+ExtractParameters("HOUR", "i", Text);
+ExtractParameters("MINUTE", "i", Text);
+ExtractParameters("SECOND", "i", Text);
+ExtractParameters("HUNDRED", "i", Text);
+ExtractParameters("YEAR", "i", Text);
+ExtractParameters("MONTH", "i", Text);
+ExtractParameters("DAY", "i", Text);
+ExtractParameters("FILE", "x", Text);
+ExtractParameters("CLOSE", "x", Text);
+ExtractParameters("OPEN", "xS", Text);
+ExtractParameters("FGETS", "xsIi", Text);
+ExtractParameters("FKILL", "x", Text);
+0

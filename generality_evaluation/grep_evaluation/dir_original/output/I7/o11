@@ -1,0 +1,9 @@
+./eval_bin: dir0: Is a directory
+dir0:0
+eval_bin:0
+./eval_bin: input: Is a directory
+input:0
+sample:2
+sample2:2
+sample3:4
+2

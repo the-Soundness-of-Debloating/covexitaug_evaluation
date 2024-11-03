@@ -1,0 +1,13 @@
+drwxrwxr-x username/username       0 2020-07-18 00:00:45 uploadprogress/
+drwxrwxr-x username/username       0 2020-07-18 00:00:27 uploadprogress/uploadprogress/
+-rw-rw-r-- username/username    4868 2020-07-18 00:00:27 uploadprogress/uploadprogress/uploadprogress.c
+-rw-rw-r-- username/username    4635 2020-07-18 00:00:21 uploadprogress/uploadprogress/php_uploadprogress.h
+-rw-rw-r-- username/username    4234 2020-07-18 00:00:16 uploadprogress/uploadprogress/config.w32
+drwxrwxr-x username/username       0 2020-07-18 00:00:09 uploadprogress/uploadprogress/examples/
+-rw-rw-r-- username/username    3373 2020-07-17 23:59:57 uploadprogress/uploadprogress/examples/index.php
+-rw-rw-r-- username/username    2575 2020-07-18 00:00:06 uploadprogress/uploadprogress/examples/server.php
+-rw-rw-r-- username/username    2581 2020-07-18 00:00:09 uploadprogress/uploadprogress/examples/info.php
+-rw-rw-r-- username/username    1040 2020-07-18 00:00:13 uploadprogress/uploadprogress/config.m4
+-rw-rw-r-- username/username     891 2020-07-18 00:00:45 uploadprogress/package.xml
+-rw-rw-r-- username/username      40 2020-07-17 23:59:12 uploadprogress/package2.xml
+0

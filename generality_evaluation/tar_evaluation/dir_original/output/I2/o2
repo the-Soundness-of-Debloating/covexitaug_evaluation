@@ -1,0 +1,15 @@
+./eval_bin: Removing leading `/' from member names
+/workspace/main/debloating_analysis_tools/tmp/tar_evaluation/generality/workdir/Downloads/
+/workspace/main/debloating_analysis_tools/tmp/tar_evaluation/generality/workdir/Downloads/image.png
+/workspace/main/debloating_analysis_tools/tmp/tar_evaluation/generality/workdir/Downloads/video.mp4
+/workspace/main/debloating_analysis_tools/tmp/tar_evaluation/generality/workdir/Downloads/song.mp3
+./eval_bin: /usr/local/mytest: Cannot stat: No such file or directory
+/workspace/main/debloating_analysis_tools/tmp/tar_evaluation/generality/workdir/Documents/
+/workspace/main/debloating_analysis_tools/tmp/tar_evaluation/generality/workdir/Documents/notes.txt
+./eval_bin: Error exit delayed from previous errors
+2
+0
+0
+0
+0
+2

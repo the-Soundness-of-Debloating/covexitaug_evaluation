@@ -1,0 +1,5 @@
+./eval_bin: invalid option -- 'l'
+Try `./eval_bin ./-file.txt' to remove the file `-file.txt'.
+Try `./eval_bin --help' for more information.
+1
+0

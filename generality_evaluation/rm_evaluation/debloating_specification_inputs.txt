@@ -1,0 +1,7 @@
+["file"]
+["file"]
+["-r", "dir"]
+["-r", "-f", "dir"]
+["-f", "dir"]
+["-i", "filei"]
+["-i", "filei"]

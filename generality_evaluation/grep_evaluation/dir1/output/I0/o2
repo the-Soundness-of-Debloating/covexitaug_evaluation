@@ -1,0 +1,3 @@
+./run.sh: line 3: 25889 Done                    cat /etc/passwd
+     25890 Segmentation fault      (core dumped) | ./eval_bin -i
+139

@@ -1,0 +1,4 @@
+/workspace/experiments/debloating_study/expt/debaug/benchmark/gzip-1.2.4/testscript/I3/2: line 11: 33296 Killed                  timeout -k 9 ${TIMEOUT}s $BIN -d mydocument.odt.gz
+137
+0
+cat: mydocument.odt: No such file or directory

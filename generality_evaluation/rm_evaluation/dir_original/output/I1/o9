@@ -1,0 +1,3 @@
+./eval_bin: remove regular file `eval_bin'? ./eval_bin: cannot remove `input': Is a directory
+./eval_bin: remove regular file `myfile.txt'? ./eval_bin: remove regular file `run.sh'? 1
+0

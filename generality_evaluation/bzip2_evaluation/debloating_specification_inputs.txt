@@ -1,0 +1,6 @@
+["-c"]
+["-d"]
+["-f", "foo"]
+["-t", "foo"]
+["-t", "references/sample1.bz2.ref"]
+["-k", "foo"]

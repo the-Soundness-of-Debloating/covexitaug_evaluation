@@ -1,0 +1,3 @@
+timeout: the monitored command dumped core
+/workspace/experiments/debloating_study/expt/debaug/benchmark/gzip-1.2.4/testscript/I5/4: line 11: 34098 Segmentation fault      timeout -k 9 ${TIMEOUT}s $BIN -t test.sh.gz
+139

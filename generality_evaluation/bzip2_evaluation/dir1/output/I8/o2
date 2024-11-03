@@ -1,0 +1,4 @@
+/workspace/experiments/debloating_study/expt/debaug/benchmark/bzip2-1.0.5/testscript/I8/2: line 10: 11728 Killed                  timeout -k 9 ${TIMEOUT}s $BIN file7.tar
+137
+0
+2

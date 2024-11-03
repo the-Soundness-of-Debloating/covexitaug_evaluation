@@ -1,0 +1,4 @@
+./run.sh: line 3: 41497 Done                    echo y
+     41498 Segmentation fault      (core dumped) | ./eval_bin -i megatron.txt
+139
+0

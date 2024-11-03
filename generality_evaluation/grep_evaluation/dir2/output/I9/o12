@@ -1,0 +1,14 @@
+/usr/bin:/sbin:/bin:/snap/bin"
+
+
+
+
+root   ALL=(ALL:ALL) ALL
+
+%admin ALL=(ALL) ALL
+
+%sudo ALL=(ALL:ALL) ALL
+
+
+<This branch (L21259) is removed by Cov debloating tool>
+6

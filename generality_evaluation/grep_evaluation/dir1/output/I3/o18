@@ -1,0 +1,3 @@
+./run.sh: line 3: 27643 Done                    echo 'ba'
+     27644 Segmentation fault      (core dumped) | ./eval_bin -E '(a)\1|b\1'
+139

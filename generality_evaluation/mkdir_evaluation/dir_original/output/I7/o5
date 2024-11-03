@@ -1,0 +1,3 @@
+./eval_bin: cannot create directory `newdir': File exists
+1
+drwxr-xr-x 2 root root

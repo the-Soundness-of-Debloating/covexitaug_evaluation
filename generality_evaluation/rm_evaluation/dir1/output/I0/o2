@@ -1,0 +1,4 @@
+./run.sh: line 3: 39174 Done                    echo y
+     39175 Segmentation fault      (core dumped) | ./eval_bin -i d.txt
+139
+0

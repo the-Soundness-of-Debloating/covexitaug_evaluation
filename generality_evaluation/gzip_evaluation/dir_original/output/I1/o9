@@ -1,0 +1,3 @@
+
+eval_bin: file1_corrupted.txt.gz: not in gzip format
+1

@@ -1,0 +1,3 @@
+timeout: the monitored command dumped core
+/workspace/experiments/debloating_study/expt/debaug/benchmark/sort-8.16/testscript/I7/6: line 11: 45753 Segmentation fault      timeout -k 9 ${TIMEOUT}s $BIN sort1.txt sort2.txt
+139

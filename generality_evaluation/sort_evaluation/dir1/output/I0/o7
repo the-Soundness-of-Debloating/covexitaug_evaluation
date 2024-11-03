@@ -1,0 +1,3 @@
+timeout: the monitored command dumped core
+/workspace/experiments/debloating_study/expt/debaug/benchmark/sort-8.16/testscript/I0/7: line 11: 43367 Segmentation fault      timeout -k 9 ${TIMEOUT}s $BIN lsl.txt lsla.txt
+139

@@ -1,0 +1,5 @@
+
+eval_bin: dir1: not in gzip format
+1
+0
+cat: dir1/file: No such file or directory

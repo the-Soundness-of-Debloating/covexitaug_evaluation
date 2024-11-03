@@ -1,0 +1,4 @@
+/workspace/experiments/debloating_study/expt/debaug/benchmark/gzip-1.2.4/testscript/I4/7: line 10: 33850 Killed                  timeout -k 9 ${TIMEOUT}s $BIN -d test.txt.gz
+137
+0
+2

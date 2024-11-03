@@ -1,0 +1,8 @@
+timeout: the monitored command dumped core
+/workspace/experiments/debloating_study/expt/debaug/benchmark/tar-1.14/testscript/I2/2: line 12: 47845 Segmentation fault      timeout -k 9 ${TIMEOUT}s $BIN -cvf archive.tar $CURRDIR/Downloads /usr/local/mytest $CURRDIR/Documents
+139
+2
+2
+2
+2
+2

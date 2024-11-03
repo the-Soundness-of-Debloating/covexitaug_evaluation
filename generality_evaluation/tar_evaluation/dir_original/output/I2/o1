@@ -1,0 +1,5 @@
+./eval_bin: Removing leading `/' from member names
+./eval_bin: /usr/local/mytest: Cannot stat: No such file or directory
+./eval_bin: Error exit delayed from previous errors
+2
+2

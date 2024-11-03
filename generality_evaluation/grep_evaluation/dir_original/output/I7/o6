@@ -1,0 +1,16 @@
+dir0/sample2:phoenix number2
+dir0/sample3:phoenix number3
+dir0/sample3:phoenix number3 test2
+dir0/sample3:phoenix number3 test3
+dir0/sample:phoenix number1
+input/I7/dir0/sample2:phoenix number2
+input/I7/dir0/sample3:phoenix number3
+input/I7/dir0/sample3:phoenix number3 test2
+input/I7/dir0/sample3:phoenix number3 test3
+input/I7/dir0/sample:phoenix number1
+input/I7/sample2:phoenix number2
+input/I7/sample3:phoenix number3
+input/I7/sample3:phoenix number3 test2
+input/I7/sample3:phoenix number3 test3
+input/I7/sample:phoenix number1
+0

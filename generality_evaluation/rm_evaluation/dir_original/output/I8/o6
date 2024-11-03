@@ -1,0 +1,14 @@
+./eval_bin: descend into directory `files'? ./eval_bin: remove regular file `files/b-test-3'? ./eval_bin: remove regular file `files/c-test-1'? ./eval_bin: remove regular file `files/a-test-2'? ./eval_bin: remove regular file `files/c-test-2'? ./eval_bin: remove regular file `files/b-test-2'? ./eval_bin: remove regular file `files/a-test-3'? ./eval_bin: remove regular file `files/b-test-1'? ./eval_bin: remove regular file `files/c-test-3'? ./eval_bin: remove regular file `files/a-test-1'? ./eval_bin: remove directory `files'? 0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0

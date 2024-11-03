@@ -1,0 +1,5 @@
+
+Line count increment: 150/1991 (original: 5049, before: 3058, after: 3208)
+
+Generality problems count (before augmentation): 3/43
+Generality problems count (after augmentation): 5/43

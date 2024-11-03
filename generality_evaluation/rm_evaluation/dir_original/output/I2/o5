@@ -1,0 +1,6 @@
+./eval_bin: descend into directory `dbstore'? ./eval_bin: remove regular file `dbstore/file3.log'? ./eval_bin: remove regular file `dbstore/service'? ./eval_bin: remove regular file `dbstore/file2.log'? ./eval_bin: remove regular file `dbstore/file1.log'? ./eval_bin: remove directory `dbstore'? 0
+0
+0
+0
+0
+0

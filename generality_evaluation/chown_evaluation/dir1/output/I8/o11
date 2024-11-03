@@ -1,0 +1,4 @@
+timeout: the monitored command dumped core
+/workspace/experiments/debloating_study/expt/debaug/benchmark/chown-8.2/testscript/I8/11: line 13: 15695 Segmentation fault      timeout -k 9 ${TIMEOUT}s $BIN +${uid}:+${uid} file1
+139
+root root
